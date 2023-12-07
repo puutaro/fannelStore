@@ -80,6 +80,7 @@ Long press history menu button in left bottom.
 ### Play Button
 
 Launch `fannel` topic on github
+- Long press -> web search
 
 ### Edit Button
 
@@ -108,10 +109,10 @@ Edit bookmark list by `renameFannelStoreBookmarkName`
 
 `renameFannelStoreBookmarkName`
 
-| value | description |
-| ----------- | ----------- |
-| blank | Delete tube url list name |
-| other | Rename tube url list name (auto comp prefix `bookmark`) |
+| value | description                                                |
+| ----------- |------------------------------------------------------------|
+| blank | Delete tube url list name                                  |
+| other | Rename tube url list name (auto comp prefix `fannelStore`) |
 
 ## Setting variables
 ---------
