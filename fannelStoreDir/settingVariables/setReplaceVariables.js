@@ -24,7 +24,7 @@ TSV_SUFFIX=
 fannelTopicUrl=
 	`https://github.com/topics/fannel`,
 fannelStoreBookmarkDefaultName=
-	`${FANNEL_STORE_PREFIX}Bookmarks.tsv`,
+	`${FANNEL_STORE_PREFIX}Bookmark.tsv`,
 
 // dir path
 currentAppDirPath=
@@ -54,6 +54,12 @@ fannelStoreBookmarksJsPath=
 	`${fannelStoreJsDirPath}/bookmarks.js`,
 webSearcherFannelPath=
 	`${currentAppDirPath}/webSearcher.js`,
+
+// libs path
+fannelStoreMakeCreatorTsvPathForBookmarkListJsPath=
+	`${fannelStoreLibsDirPath}/makeCreatorJSPathForBookmarkList.js`,
+fannelStoreUpdateBookMarkNameJsPath=
+	`${fannelStoreLibsDirPath}/updateBookMarkName.js`,
 
 // list path
 APP_URL_HISTORY_PATH=

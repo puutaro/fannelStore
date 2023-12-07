@@ -27,6 +27,6 @@ scriptFileName="fannelStore.js"
 /// CMD_VARIABLE_SECTION_START
 SETTING=""
 onLaunchBookmarkByDialog="ON"
-fannelStoreBookmarkName="fannelStoreBookmarks.tsv"
+fannelStoreBookmarkName="fannelStoreBookmark.tsv"
 EDIT_FANNEL_STORE_BOOKMARK_NAME=""
 /// CMD_VARIABLE_SECTION_END
