@@ -55,14 +55,6 @@ fannelStoreBookmarksJsPath=
 webSearcherFannelPath=
 	`${currentAppDirPath}/webSearcher.js`,
 
-// // system js path
-// fannelStoreNoArgsJs=
-// 	`${fannelStoreSystemJsDirPath}/noArg.js`,
-
-// libs path
-fannelStoreSshDialogJsPath=
-	`${fannelStoreLibsDirPath}/sshDialog.js`,
-
 // list path
 APP_URL_HISTORY_PATH=
 	`${currentAppDirPath}/system/url/cmdclickUrlHistory.tsv`,
