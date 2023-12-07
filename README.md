@@ -14,6 +14,7 @@ Table of Contents
 -------
 <!-- vim-markdown-toc GFM --> 
 * [Screenshots](#screenshots)
+* [Installation](#installation)
 * [Usage](#usage)
   * [Install fannel](#install-fannel)
   * [Web search](#web-search)
@@ -29,6 +30,11 @@ Table of Contents
 	* [scriptFileName](#scriptfilename)
 * [How to register to this store](how-to-register-to-this-store)
 
+## Installation
+--------------
+
+1. Install [ComamndClick](https://github.com/puutaro/CommandClick#app-installation) to your android
+2. Install this fannel by [install repo](https://github.com/puutaro/CommandClick/blob/master/USAGE.md#install-fannel) or QR code
 
 ## Screenshots
 --------
