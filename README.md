@@ -25,7 +25,7 @@ Table of Contents
 	* [BOOKMARK MANAGER](#bookmark-manager)
 * [Setting variables](#setting-variables)
 	* [scriptFileName](#scriptfilename)
-
+* [How to register to this store](how-to-register-to-this-store)
 ## Usage
 --------
 
@@ -96,3 +96,9 @@ Edit bookmark list by `renameFannelStoreBookmarkName`
 ### scriptFileName
 
 Rename script name
+
+## How to register to this store
+-----------
+
+You can register this  store.  
+Check [detail procecdure](https://github.com/puutaro/commandclick-repository/blob/master/README.md#procedure-1)
