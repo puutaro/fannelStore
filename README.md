@@ -19,7 +19,8 @@ Table of Contents
   * [Web search](#web-search)
   * [Bookmark](#bookmark)
 * [Toolbar buttons](#toolbar-buttons)
-	* [Play Button](#play-button)
+  * [Play Button](#play-button)
+  * [Edit Button](#edit-button)
 * [Cmd Variables](#cmd-variables)
 	* [SETTING](#setting)
 	* [Bookmark name](#cmdinput)
@@ -46,7 +47,7 @@ Mostly, trigger each feature by **Long press**
 ### Install fannel
 Long press QR iamge in order to install [fannel](https://github.com/puutaro/CommandClick/blob/master/md/developer/glossary.md#fannel.
 
-### Web-search
+### Web search
 
 Long press Play button 
 
@@ -73,6 +74,10 @@ Long press history menu button in left bottom.
 ### Play Button
 
 Launch `fannel` topic on github
+
+### Edit Button
+
+- long press -> page search
 
 ## Cmd Variables
 --------
